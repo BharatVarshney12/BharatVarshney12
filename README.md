@@ -33,7 +33,7 @@
 
 🏢 **AArete Technosoft Pvt Ltd**
 
-📍 **dwarka, delhi**
+📍 **Dwarka, delhi**
 
 💼 **10 +years in Test Automation**
 
