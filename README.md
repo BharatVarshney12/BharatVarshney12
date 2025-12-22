@@ -37,13 +37,13 @@
 
 💼 **10 +years in Test Automation**
 
-🔭 Currently working on Linkedin testing creator, LLM chatbot
+🔭 Currently working on **Linkedin testing creator, LLM chatbot**
 
 🌱 Currently learning **N8N, Playwright**
 
 💬 Ask me about **Test Automation , Agentic AI, LLM **
 
-🎓 Certifications: **ISTQB, AWS AI Certified, Atlassian Rovo & Forge Fundamental, Snowflake pro**
+🎓 Certifications: **ISTQB, AWS AI Certified, Atlassian Rovo & Forge Fundamental, Snowflake pro fundamental**
 
 
 📦 **405** repositories | 👥 **171** followers
