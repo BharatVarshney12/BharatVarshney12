@@ -37,7 +37,7 @@
 
 💼 **10 +years in Test Automation**
 
-🔭 Currently working on **[BharatProfile](https://github.com/BharatVarshney12/BharatProfile)**
+🔭 Currently working on Linkedin testing creator, LLM chatbot
 
 🌱 Currently learning **N8N, Playwright**
 
