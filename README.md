@@ -45,8 +45,8 @@ I'm a **Technical Lead** with **10+ years of software testing experience** and *
 ```yaml
 name: Bharat Varshney
 located_in: Dwarka, Delhi, India
-job: Technical Lead | QA Testing Expert | Team Leader & Mentor
-companies: ["AArete Technosoft Pvt Ltd"]
+job: Lead SDET AI | Technical Lead | QA Testing Expert | Team Leader & Mentor
+companies: ["LexisNexis Risk Solutions"]
 education: 
   - "10+ Years in Test Automation"
   - "3+ Years in AI Engineering"
