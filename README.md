@@ -40,7 +40,7 @@
 
 > *"Driving quality excellence through AI-powered test automation and innovation."*
 
-I'm a **Technical Lead** with **10+ years of software testing experience** and **3+ years specializing in AI-powered test automation**. Currently leading test automation initiatives at **AArete Technosoft Pvt Ltd** while exploring the intersection of **Agentic AI** and **LLM integration** in quality assurance.
+I'm a **Lead SDET AI** with **10+ years of software testing experience** and **3+ years specializing in AI-powered test automation**. Currently leading test automation initiatives at **AArete Technosoft Pvt Ltd** while exploring the intersection of **Agentic AI** and **LLM integration** in quality assurance.
 
 ```yaml
 name: Bharat Varshney
