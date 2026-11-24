@@ -1,173 +1,125 @@
-# Hi there, I'm Bharat Varshney 👋
+<h1 align="center">Hi, I'm Bharat Varshney 👋</h1>
 
-<div align="center">
+<h3 align="center">Lead SDET (AI) · QA Leader · GenAI & Agentic AI Quality Engineering</h3>
 
-### AI Engineer | QA Automation Architect | Generative AI & RAG Specialist
-
-Building intelligent, scalable, and reliable software systems through AI, automation, and cloud technologies.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharat%20Varshney-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bharatvarshney/)
-[![GitHub](https://img.shields.io/badge/GitHub-BharatVarshney12-black?style=for-the-badge&logo=github)](https://github.com/BharatVarshney12)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/bharatvarshney"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bharatvarshney567@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-2ea44f" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Location-Delhi%20NCR%20%7C%20Remote-lightgrey" alt="Location"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Computer and Information Research Scientist with 11+ years of experience in Software Quality Engineering, Test Automation Architecture, Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Cloud Technologies.
+I'm a **Lead SDET with 11+ years of experience**, currently leading QA for **AI/LLM and RAG-based applications at LexisNexis Risk Solutions**. I define evaluation benchmarks, quality gates and release-readiness criteria for AI workflows, and mentor a team of QA/SDET engineers.
 
-I specialize in designing enterprise-scale automation solutions and validating modern AI applications, including Agentic AI systems, RAG pipelines, LLM-powered applications, and cloud-native platforms.
+I focus on one question: **how do you test software whose output isn't deterministic?**
 
-### Core Expertise
-
-- 🤖 Generative AI & LLM Engineering
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧠 Agentic AI & Multi-Agent Systems
-- ✅ AI Quality Engineering & Evaluation
-- 🧪 Test Automation Architecture
-- ☁️ Azure Cloud & DevOps
-- 📊 Performance Engineering
-- 🔐 Security & Compliance Testing
-- 🚀 CI/CD & Release Quality
+- 🧪 Building evaluation frameworks for LLMs and RAG pipelines (golden datasets, hallucination checks, guardrails)
+- 🤖 Creating agentic QA workflows that automate failure analysis and verification
+- 🔌 Using **MCP** with GenAI to automate test data generation, summarization and defect analysis
+- 🎓 Mentoring QA/SDET engineers and sharing AI QA learnings through LinkedIn, Medium and GitHub
 
 ---
 
-## 💼 Professional Highlights
+## 🧠 What I Work On
 
-- 11+ years of experience delivering enterprise-quality software solutions.
-- Designed and implemented scalable automation frameworks from scratch.
-- Expertise in Selenium, Playwright, API Automation, and Performance Testing.
-- Built evaluation frameworks for LLMs, RAG applications, and AI Agents.
-- Experience in prompt evaluation, hallucination detection, safety testing, and guardrail validation.
-- Developed automated quality pipelines integrated with Azure DevOps, GitHub Actions, and Jenkins.
-- Strong background in cloud-native architectures and enterprise-scale testing strategies.
-
----
-
-## 🧠 AI & LLM Skills
-
-### Generative AI
-
-- OpenAI
-- Azure OpenAI
-- GPT Models
-- Prompt Engineering
-- Function Calling
-- Structured Outputs
-- AI Evaluation Frameworks
-
-### RAG & Agentic AI
-
-- LangChain
-- LangGraph
-- Semantic Kernel
-- Vector Databases
-- AI Agents
-- MCP (Model Context Protocol)
-- Knowledge Retrieval Systems
-- Multi-Agent Architectures
-
-### AI Quality Engineering
-
-- RAG Evaluation
-- Hallucination Detection
-- Groundedness Testing
-- Agent Evaluation
-- Tool Calling Validation
-- Synthetic Data Generation
-- Prompt Testing
-- Guardrail Validation
-- Red Teaming & Jailbreak Testing
+| Area | Details |
+|------|---------|
+| **AI / LLM Testing** | Golden datasets, LLM output validation, hallucination detection, prompt testing & versioning, regression suites, model comparison & A/B testing, AI SLAs/SLOs |
+| **RAG & Vector Search** | End-to-end RAG validation (ingestion → retrieval → generation), Milvus, hybrid & dense search, grounding checks |
+| **Guardrails & Security** | Bias, toxicity and prompt-injection tests, OWASP, Burp Suite |
+| **Observability** | Phoenix (LLM tracing), ELK, Kibana, latency & token-usage tracking |
+| **Test Automation** | Playwright, Selenium, REST Assured, Cucumber BDD, WebSocket tests for streaming AI responses |
+| **Quality Leadership** | Test strategy, quality gates in CI/CD, release readiness, defect management, root-cause analysis |
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### Languages
+**AI & LLM**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![RAG](https://img.shields.io/badge/RAG-6f42c1) ![MCP](https://img.shields.io/badge/MCP-000000) ![Ragas](https://img.shields.io/badge/Ragas-ff6f00) ![DeepEval](https://img.shields.io/badge/DeepEval-5b2c83) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C) ![Ollama](https://img.shields.io/badge/Ollama-000000) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A1EA) ![Phoenix](https://img.shields.io/badge/Phoenix-Arize-orange) ![n8n](https://img.shields.io/badge/n8n-EA4B71)
 
-### UI Automation
+**Automation & Testing**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF7F00)
 
-### API Testing
+**DevOps, Cloud & Data**
 
-- REST Assured
-- Postman
-- Swagger/OpenAPI
-- API Automation Frameworks
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-### Performance Testing
-
-- Apache JMeter
-- Load Testing
-- Stress Testing
-- Endurance Testing
-- Performance Analysis
-
-### DevOps & Cloud
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+**AI-assisted development:** Claude · Cursor · GitHub Copilot · Gemini
 
 ---
 
-## 📌 Areas of Interest
+## 📈 Impact Highlights
 
-- Generative AI
-- AI Agent Architecture
-- Multi-Agent Systems
-- RAG Platforms
-- Model Evaluation
-- AI Observability
-- Cloud Security
-- Test Automation
-- Software Quality Engineering
-- AI Governance
+- ⚡ Reduced **inference latency by 20%** by optimizing vector search with Milvus
+- 🎯 Improved **model accuracy by 15%** through better dataset quality and preprocessing
+- 🧱 Built a Java automation framework that cut **testing effort by 60%** and **testing time by 40%**
+- 🔁 Reduced **flaky tests by 70%** with retries, stabilization and better diagnostics
+- 📊 Increased product **test coverage and effectiveness by 30%**
+- 🏗️ Created an **AI QA validation suite and agentic QA workflow framework** adopted across teams
 
 ---
 
-## 📈 GitHub Statistics
+## 💼 Experience
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharatVarshney12&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatVarshney12&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced Agentic AI Systems
-- MCP Ecosystem
-- AI Observability Platforms
-- Multi-Agent Collaboration
-- Enterprise RAG Architectures
-- AI Reliability Engineering
+| Role | Company | Period |
+|------|---------|--------|
+| **Lead SDET – AI** | LexisNexis Risk Solutions | Mar 2026 – Present |
+| **Technical QA Lead** | AArete Technosoft Pvt. Ltd. | Jan 2022 – Feb 2026 |
+| **Sr. QA Engineer** | RenewBuy | Oct 2020 – Jan 2022 |
+| Earlier roles | Noble House, Rosmerta Technologies, Tolexo Online | 2015 – 2020 |
 
 ---
 
-## 📫 Connect With Me
+## 🔬 Featured Work
 
-- LinkedIn: https://www.linkedin.com/in/bharatvarshney/
-- GitHub: https://github.com/BharatVarshney12
+- **AI/LLM Testing (Trade Compliance):** Golden datasets, prompt-versioning regression suites, guardrail tests, mutation testing for AI workflows, Milvus and hybrid-search validation, Phoenix tracing, CI/CD-integrated evaluation.
+- **Healthcare AI (HIPAA):** Hallucination detection, prompt drift analysis, retrieval accuracy and session isolation for LLM-based healthcare workflows.
+- **Local RAG with Ollama:** Built and deployed an end-to-end local LLM solution with RAG architecture.
+- **QA Automation with MCP + n8n:** Automated test data generation, summarization and defect analysis.
+
+> 📌 *Add links to your pinned repos here (see the "Pin your repos" tip below).*
 
 ---
 
-## 💭 Personal Motto
+## 🏆 Recognition & Certifications
 
-> "Quality is no longer just testing software. It's ensuring AI systems remain reliable, trustworthy, scalable, and safe."
+- 🎤 Recognized at **TestMuConf 2026** for AI QA thought leadership
+- 🥇 **BrowserStack Champion**, top 5 on the LambdaTest Conference leaderboard, and Social Media Challenge winner
+- ⭐ Top Performer of the Quarter · Exceptional Performer Award · Star of the Month
+- 📜 ISTQB Foundation · AWS AI Fundamentals · Google Cloud Generative AI Leader · DevOps (KodeKloud) · LambdaTest Automation Professional
 
-⭐ If you are working on AI, Automation, RAG, Agentic AI, or Cloud Engineering initiatives, let's 
+---
+
+## ✍️ Sharing & Mentoring
+
+- 📝 Weekly posts on AI QA and automation on [LinkedIn](https://linkedin.com/in/bharatvarshney)
+- 📖 Blogs on Medium: *add your Medium link*
+- 🤝 1:1 mentoring for QA/SDET engineers on Topmate: *add your Topmate link*
+- 👥 Member of The Test Tribe and ShiftSync communities
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BharatVarshney12&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatVarshney12&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm happy to talk about **AI quality engineering, LLM evaluation, agentic testing and QA leadership**.
+
+- 💼 LinkedIn: [linkedin.com/in/bharatvarshney](https://linkedin.com/in/bharatvarshney)
+- 📧 Email: bharatvarshney567@gmail.com
+
+<p align="center"><i>"Great AI products aren't just built, they're evaluated."</i></p>
